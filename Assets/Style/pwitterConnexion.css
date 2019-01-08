@@ -1,0 +1,36 @@
+.connexion
+{
+    width:30% !important;
+    margin: auto !important;
+    margin-bottom:15px;
+}
+.inscription
+{
+    width: 50%;
+    margin: auto;
+}
+h3
+{
+    text-align: center;
+    margin-top:5%;
+}
+button.subscribe
+{
+   margin: 1%;
+}
+input.submitConnect
+{
+    margin-top:1%;
+}
+
+input.submitSub
+{
+    margin-top:1%;
+}
+div#formSub
+{
+    display:none;
+}
+body{
+    background-color:#f9f9fa;
+}

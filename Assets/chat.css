@@ -1,0 +1,25 @@
+div.chat
+{
+    float:right;
+    margin:5px;
+    width:250px;
+    max-height:250px;
+}
+
+div.open
+{
+    position:absolute;
+    bottom:0;
+    max-height:300px;
+    overflow:scroll;
+    min-height:250px;
+    width:100%;
+    margin-bottom:8vh;
+    margin-left:1vh;
+}
+div.reduc
+{
+    position:absolute;
+    bottom:0;
+    max-height: 10px !important;
+}

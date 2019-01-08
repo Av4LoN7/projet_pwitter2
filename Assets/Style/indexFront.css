@@ -1,0 +1,227 @@
+h3
+{
+    text-align: center;
+}
+.partialInfo
+{
+    width:40%;
+    margin: auto auto 1vh auto;
+    text-align: center;
+    background-color:#ffffff;
+    box-shadow: 0px 2px 2px #c0c0c0;
+    float:right;
+
+}
+.categorieLike
+{
+    width:60%;
+    margin: auto;
+}
+.btn-block
+{
+    margin:1px;
+}
+.leftBar
+{
+    margin-top:5%;
+}
+.navShortcut
+{
+    margin:1vh auto;
+    height:auto;
+    text-align: center;
+    width:80%;
+    line-height: 2vh;
+
+}
+.navContainer
+{
+    width:40%;
+    margin: 1vh auto;
+    box-shadow: 0px 2px 2px #c0c0c0;
+    background-color:#f9f9f9;
+    border: 1px solid transparent;;
+    height: auto;
+    clear: both;
+    float: right;
+}
+.catPlacement
+{
+    background-color: #f9f9f9;
+    min-height:10vh;
+    height:auto;
+    width:40%;
+    margin: auto;
+    clear: both;
+    float: right;
+    box-shadow: 0px 2px 2px #c0c0c0;
+}
+
+#pwittContent
+{
+    margin: auto;
+    height:auto;
+}
+input#submitPwitt
+{
+    margin-bottom: 2%;
+}
+body{
+    background-color:#f4f7f8;
+}
+header
+{
+    height:13.6vh;
+    box-shadow: 0 2px 2px #c0c0c0;
+    background-color:#f9f9f9;
+}
+.copyright
+{
+    width:60%;
+    clear:both;
+    background-color:#f9f9f9;
+    min-height:2vh;
+    box-shadow: 0 2px 2px #c0c0c0;
+}
+.aboRender
+{
+    width:100%;
+    min-height:12vh;
+    height:auto;
+    margin-top:5vh;
+    background-color:#f9f9f9;
+    box-shadow: 0px 2px 2px #c0c0c0;
+}
+#formPwitt
+{
+    max-height:38vh;
+    z-index:50;
+    width:75%;
+    margin: auto;
+    background-color:#f9f9fa;
+
+
+}
+.form-group2
+{
+    margin: 10px auto;
+    background-color:#f9f9fa;
+    box-shadow: 0px 2px 2px #c0c0c0;
+}
+.publication
+{
+    width:80%;
+    margin: 2%;
+    padding:2%;
+}
+.pwit
+{
+    height:auto;
+    min-height: 10vh;
+    z-index:50;
+    margin:auto;
+    background-color:#f9f9fa;
+    box-shadow: 0px 2px 2px #c0c0c0;
+
+}
+.addCom
+{
+    display: none;
+}
+footer
+{
+    position:fixed;
+    bottom:0;
+    right:0;
+}
+.profildescription
+{
+    min-height:8vh;
+    height:auto;
+    background-color:#f9f9f9;
+    width:75%;
+    margin:auto;
+}
+.searchBar
+{
+    width: 15%;
+    float: left;
+    margin-left:3%;
+    margin-top:1%;
+}
+.blackBand
+{
+    background-color:#000000;
+    text-align: center;
+    color:dodgerblue;
+    min-height:2vh;
+
+    width:100%;
+}
+.noContent
+{
+    background-color:#f9f9f9;
+    box-shadow: 0 2px 2px #c0c0c0;
+    min-height: 5vh;
+    height:auto;
+    padding-left:1vh;
+    margin:2%;
+}
+.noImg
+{
+    max-width:80px;
+    width:auto;
+    height:80px;
+    border-radius: 40px;
+    float: left;
+    margin-left:2vh;
+    margin-top: 1vh;
+}
+.followerViewOption
+{
+    padding-top: 4vh;
+    margin-left: 15vh;
+}
+.userDetail
+{
+    margin-left:30%;
+    padding-top:2%;
+}
+.adminLeft
+{
+    height:100vh;
+    padding-top:10vh;
+}
+.messageView
+{
+    min-height:60vh;
+    overflow: scroll;
+    background-color: #f9f9fa;
+    float:right;
+    width:50%;
+    text-align: center;
+    position:relative;
+}
+.messageUserLeft
+{
+    float:left;
+    min-height:50vh;
+    height: auto;
+    width: 50%;
+}
+
+.textBox
+{
+    position: fixed;
+    bottom:0;
+}
+.messageView .textBox2
+{
+    position: absolute;
+    bottom:0;
+}
+.pwitData {
+    padding-left: 30%;
+    min-height: 10vh;
+    height: auto;
+}
